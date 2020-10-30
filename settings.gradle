@@ -1,0 +1,3 @@
+include ':LoadMoreApapter'
+include ':app'
+rootProject.name = "LoadMoreApdater"
